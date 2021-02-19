@@ -1,0 +1,117 @@
+*{
+padding: 0;
+margin: 0;
+}
+
+body{
+background: url('../img/fundo.jpg');
+font-size: 12px;
+background-size: cover;
+background-repeat: no-repeat;
+}
+
+
+#img-user{ 
+cursor: pointer;
+margin-top: 40px;
+text-align: center;
+padding-top: 5px;
+padding-bottom: 5px;
+}
+#img-user img{
+width: 110px;
+background: url('../img/user2.png');
+background-size: 110px;
+background-repeat: no-repeat;
+}
+#img-user img:hover{
+background: url('../img/user.png');
+background-size: 110px;
+background-repeat: no-repeat;
+}
+
+#bloco-star{
+width: 100%;
+padding-bottom: 5px;
+text-align: center;
+}
+#bloco-star img{
+width: 35px;
+padding: 10px;
+margin: 10px;
+}
+
+#bloco-login{
+margin: auto;
+width: 300px;
+height: 360px;
+background-color:#0c3a5a8f;
+border: 3px solid #b4b4b475;
+border-radius: 30px;
+padding: 10px;
+}
+
+
+
+
+#bloco-form{
+margin: auto;
+padding: 5px 30px 0px 15px;
+}
+
+#bloco-form label{
+color: #fff;
+display: block;
+padding: 10px;
+font-size: 2em;
+}
+
+#bloco-form input{
+cursor:pointer;
+background-color: rgb(236 236 236 / 44%);
+border: 1px solid #fff;
+display: block;
+width: 99%;
+border-radius: 10px;
+margin-bottom: 15px;
+padding: 10px;
+}
+
+#bloco-form input:hover{
+    background-color: rgb(236 236 236 / 80%);
+}
+
+#bloco-form .btn{
+background-color: rgb(83 144 246 / 76%);
+color: #fff;
+font-size: 1.6em;
+font-weight: 700;
+width: 100%;
+border: 1px solid #7eaefaba;
+border-radius: 10px;
+margin-top: 30px;
+padding: 10px;
+}
+#bloco-form .btn:hover{
+cursor:pointer;
+background-color: #1355ac; 
+}
+
+#bloco-form hr{
+color: #fff;
+margin-top: 30px;
+}
+
+#bloco-form .txt-pass{
+    text-align: center;
+    color: #fff;
+    font-size: 1.3em; 
+    padding: 30px;
+}
+
+#bloco-form .txt-pass:hover{
+    cursor:pointer;
+    text-align: center;
+    color: rgb(200, 185, 255);
+    font-size: 1.4em; 
+}
