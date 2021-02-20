@@ -6,6 +6,6 @@ Login screen with mountains background and transparent form.
 Only HTML and CSS were used.
 
 
-### [Teste AQUI](https://alexoliveira09.github.io/)
+### [Clique AQUI](https://alexoliveira09.github.io/tela-de-login-montanha/)
 
-<img src="https://alexoliveira09.github.io/tela-de-login-montanha/img/user.png">
+<img src="https://alexoliveira09.github.io/tela-de-login-montanha/img/tela-de-login-montanha.JPG">
